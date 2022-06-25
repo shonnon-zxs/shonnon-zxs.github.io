@@ -171,16 +171,19 @@ body{
   font-size: 20px;
   font-weight: bold;
   color: black;
+  font-style: Arial !important;
 }
 
 .paper-author{
   font-size: 16px !important;
   margin-top: 10px;
+  font-style: Arial !important;
 }
 
 .paper-conf{
   font-size: 16px !important;
-  font-style: italic !important;
+  font-style: Arial !important;
+  font-weight: bold;
 }
 
 a {
